@@ -2,6 +2,8 @@
 
 A web page that provides a link generator for ACL4SSR rules subscription conversion.
 
+[中文文档](./README_CN.md)
+
 ## Introduction
 
 Although there is already a great project: [GitHub - CareyWang/sub-web](https://github.com/CareyWang/sub-web), it does not offer an option for [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) in its remote configuration. Therefore, I merged some configurations from [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/) and rewrote a page, while removing the short link generation feature.
