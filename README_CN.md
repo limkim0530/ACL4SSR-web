@@ -24,7 +24,7 @@ npm run build
 
 即可在`dist`目录获得 webpack 打包后的静态文件
 
-也可以 fork 项目后直接在(Vercel)[https://vercel.com]部署
+也可以 fork 项目后直接在[Vercel](https://vercel.com)部署
 
 ## 自定义
 
