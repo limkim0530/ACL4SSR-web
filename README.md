@@ -26,7 +26,7 @@ npm run build
 
 You will get the webpack-packaged static files in the dist directory.
 
-You can also fork the project and deploy it directly on (Vercel)[https://vercel.com].
+You can also fork the project and deploy it directly on [Vercel](https://vercel.com).
 
 ## Customization
 
